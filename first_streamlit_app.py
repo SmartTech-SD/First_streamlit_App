@@ -1,10 +1,9 @@
 import streamlit
 
-streamlit.title("This Is A Beautiful Morning")
+streamlit.title("My parents new healthy Diner")
 
-streamlit.header("Sights")
-
-streamlit.text("Calm Nature")
-streamlit.text("Sweet Smell")
-streamlit.text("Good Vibe")
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
