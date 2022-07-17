@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('This is a beautiful morning')
+streamlit.title("This Is A Beautiful Morning")
